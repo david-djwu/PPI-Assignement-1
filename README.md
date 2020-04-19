@@ -58,7 +58,9 @@ void loop()
     
 }
 ```
-The code can be divided into 3 main parts and from there we can see the first basic commands we can give the Arduino to perform the simple task of turning off and on and LED given the state of the button. The first section we introduce our integers with the corresponding pins which they are connected to on the Grove Board. We give the LED Socket a value of 2 as it is connected to the D2 Socket on our board and the LED for the 3 as it is connected to D3 and the button itself is defined as 4.
+The code can be divided into 3 main parts and from there we can see the first basic commands we can give the Arduino to perform the simple task of turning off and on and LED given the state of the button. 
+
+The first section we introduce our integers with the corresponding pins which they are connected to on the Grove Board. We give the LED Socket a value of 2 as it is connected to the D2 Socket on our board and the LED for the 3 as it is connected to D3 and the button itself is defined as 4.
 
 We then set our inputs and outputs for our modules with the LED's being outputs and the button being an input. This is as the actions of the LEDs are based on how we manipulate the button.
 
