@@ -4,6 +4,8 @@ This repository is used to guide students on how they can use the Grove LED Butt
 
 This gives the effect of them alternating when lighting up.
 
+[YouTube Link](https://youtu.be/gpqDTtEIVzs)
+
 ## Introduction
 
 This tutorial implements an Arduino Uno, a Grove Base Shield, a Grove LED Button and a Grove LED Socket.
@@ -66,4 +68,4 @@ We then set our inputs and outputs for our modules with the LED's being outputs 
 
 Finally we provide an if statement for when the button is pressed, which LED will be turned on and the else function for when the button is not pressed down.
 
-YouTube Video of it in Action : https://youtu.be/gpqDTtEIVzs
+YouTube Video of it in Action : [LINK](https://youtu.be/gpqDTtEIVzs)
